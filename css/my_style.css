@@ -1,0 +1,24 @@
+*{
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+p.redred{
+    color: #A30000;
+    font-size: 40px;
+    text-align: center;
+    text-indent: 2em;
+    background-color: azure;
+}
+.blueblue{
+    color: #004777;
+}
+.yellow{
+    color: #E3B505;
+}
+
+body {
+font-family: 'Noto Sans TC', sans-serif;
+}
+h1{
+    font-family: 'noto serif';
+}
