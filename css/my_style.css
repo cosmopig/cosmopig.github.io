@@ -22,3 +22,10 @@ font-family: 'Noto Sans TC', sans-serif;
 h1{
     font-family: 'noto serif';
 }
+.expdu_icon{
+    color: blue;
+}
+.expdu_icon:hover{
+    background-color: gray;
+    color: white;
+}
