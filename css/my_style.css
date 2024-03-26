@@ -2,8 +2,17 @@
     letter-spacing: 0.8px;
     line-height: 1.5em;
 }
+.bg-primary{
+    background-color: #055ae3 !important;
+    background-image: url(../assets/img/background.png);
+    background-size: cover;
+    background-position: center;
+}
 p.redred{
     color: #A30000;
+    background-image: url(/assets/img/background.png);
+    border: 30px solid;
+    border-color: #004777;
     font-size: 40px;
     text-align: center;
     text-indent: 2em;
