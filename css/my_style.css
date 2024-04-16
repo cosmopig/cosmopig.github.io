@@ -38,7 +38,7 @@ h1{
     background-color: gray;
     color: white;
 }
-table.table{
+/* table.table{
     align-items: center;
     width: 80%;
     border-collapse: separate;
@@ -63,4 +63,9 @@ table.table tr:nth-child(even){
 }
 table.table tr:nth-child(odd){
     background-color: #31ffee;
+}
+*/
+.table-80{
+    width: 80%;
+    text-align: center;
 }
