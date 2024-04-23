@@ -48,6 +48,7 @@ h1{
 .table{
     background-color: hsl(0, 0%, 70%,10%);
     border-radius: 1em;
+    width: 80%;
 }
 .skillsicon{
     margin-right: 8px;
