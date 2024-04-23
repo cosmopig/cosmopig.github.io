@@ -22,7 +22,7 @@ p.redred{
     color: #004777;
 }
 .yellow{
-    color: #E3B505;
+    color: #E3B505 !important;
 }
 
 body {
@@ -32,13 +32,15 @@ h1{
     font-family: 'noto serif';
 }
 .expdu_icon{
-    color: blue;
+    color:#E3B505;
+    padding: 5px;
 }
 .expdu_icon:hover{
-    background-color: gray;
+    background-color:#E3B505;
     color: white;
+    border-radius: 10px;
+    padding: 5px;
 }
-
 .table-80{
     width: 80%;
     text-align: center;
@@ -59,4 +61,67 @@ h1{
     padding: 3%;
     border-radius: 3em;
     margin-bottom: 50px;
+    width: 650px;
+    text-align: center;
+    margin:30px auto ;
+    margin-top: -50px;
+}
+.midh1{
+    text-align: center;
+}
+.social-icons{
+    text-align: center;
+}
+.cwk{
+    text-decoration: none;
+    color: #E3B505;
+    padding: 3px;
+}
+.cwk:hover{
+    background-color: #E3B505;
+    color: white;
+    padding: 3px;
+    border-radius: 10px;
+}
+.fonts{
+    font-size: 32px;
+}
+.ulpor li a{
+    line-height: 2em;
+    text-decoration: none;
+    padding: 5px;
+    color: #E3B505;
+}
+.ulpor li a:hover{
+    color: white;
+    background-color:#E3B505;
+    border-radius: 5px;
+    padding: 5px;
+}
+.intereststext::first-letter{
+    margin-left: 1.2em ;
+}
+.intereststext{
+    line-height: 2em;
+}
+.navbar-nav a:hover{
+    font-size: 28px;
+}
+#education{
+    padding-left: 0px;
+}
+#specialties{
+    padding-left: 0px;
+}
+#interests{
+    padding-left: 0px;
+}
+#portolios{
+    padding-left: 0px;
+}
+.fa-li{
+    padding: 3px 0 3px 0;
+}
+.pl-5{
+    padding-left: 0.5rem;
 }
