@@ -125,3 +125,8 @@ h1{
 .pl-5{
     padding-left: 0.5rem;
 }
+#about{
+    border-radius: 0 0 480% 480% ;
+    background-color: hsl(48, 96%, 45%,10%);
+    margin-bottom: 2em;
+}
