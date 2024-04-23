@@ -131,3 +131,14 @@ h1{
     background-color: hsl(48, 96%, 45%,10%);
     margin-bottom: 2em;
 }
+.cwk2{
+    text-decoration: none;
+    color: #E3B505;
+    line-height: 3em;
+}
+.cwk2:hover{
+    background-color: #E3B505;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
